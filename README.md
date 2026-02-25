@@ -18,10 +18,10 @@ We keep a lightweight, GitHub-first archive: **one row per week + one folder per
 
 ## Schedule (Current Term: 2026 Spring)
 
-| Date | Time | Type | Title | Presenter(s) | Host | Location/Zoom | Materials | Recording | Tags | Notes |
-|---|---|---|---|---|---|---|---|---|---|---|
-| 2026-02-25 | TBD | paper | TBD | TBD | TBD | TBD | [folder](sessions/2026-spring/2026-02-25-paper-tbd/) | TBD | `#paper` | [notes](sessions/2026-spring/2026-02-25-paper-tbd/notes.md) |
-| 2026-03-04 | TBD | wip | TBD | TBD | TBD | TBD | TBD | TBD | `#wip` | TBD |
+| Date | Time | Type | Title | Location/Zoom | Materials | Recording | Tags | Notes |
+|---|---|---|---|---|---|---|---|---|
+| 2026-02-25 | TBD | paper | TBD | TBD | [folder](sessions/2026-spring/2026-02-25-paper-tbd/) | TBD | `#paper` | [notes](sessions/2026-spring/2026-02-25-paper-tbd/notes.md) |
+| 2026-03-04 | TBD | wip | TBD | TBD | TBD | TBD | `#wip` | TBD |
 
 ### Column guidelines
 - **Materials**: link to session `[folder](...)`, or `[links](.../links.md)`, or external URLs
